@@ -7,7 +7,7 @@ import tweepy
 
 from tweepy import OAuthHandler
 
-from tkinter import scrolledtext
+from Tkinter import scrolledtext
 
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
