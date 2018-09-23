@@ -1,5 +1,5 @@
 #Authors: Aaron Causey, Zach Harris, Robert Dupont, Kathleen Yates
-from Tkinter import *
+from tkinter import *
 
 import re
 
@@ -7,7 +7,7 @@ import tweepy
 
 from tweepy import OAuthHandler
 
-from Tkinter import scrolledtext
+from tkinter import scrolledtext
 
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
