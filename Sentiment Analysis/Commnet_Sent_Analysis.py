@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import random
 import pickle
 
-data_dir = "/Users/zacharris/Desktop/reviews/train"
+data_dir = "/Users/.../Desktop/reviews/train"
 categories = ["pos", "neg"]
 
 
